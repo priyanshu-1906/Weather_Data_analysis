@@ -2,6 +2,7 @@
 It is a data analysis project 
 I have performed  a data analysis on a weather dataset with the python. A set of questions were there regarding the  dataset  which were solved with the help of python. 
 
+Overview of Tools used 
 
 Jupyter notebook : Jupyter notebook is the backbone of our project as we will develop our project in Jupyter notebook.
 
